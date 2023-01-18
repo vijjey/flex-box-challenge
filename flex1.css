@@ -1,0 +1,36 @@
+.container{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    width:100%;
+}
+.row1{
+
+    width: 450px;
+    height: 500px;
+    margin:25px 25px;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size: larger;
+    text-align: justify;
+    padding: 0 12px;
+}
+#box22{
+    height: 550px;
+    margin: 50px 25px;
+}
+#box33{
+    height: 625px;
+}
+#box1{
+    height: 660px;
+}
+#box3{
+    height:680px ;
+}
+#box2{
+    height:560px ;
+}
